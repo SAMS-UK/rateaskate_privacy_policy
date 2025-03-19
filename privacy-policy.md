@@ -4,7 +4,7 @@ Privacy Policy
 ### Introduction  
 Our Privacy Policy explains what information the Scottish Association for Marine Science collects through the SkateSpotter app, how it is used, and what choices you have regarding your data.
 
-The Rate-a-Skate app is provided by the Scottish Association for Marine Science free of charge and is intended for use as is.
+The SkateSpotter app is provided by the Scottish Association for Marine Science free of charge and is intended for use as is.
 
 By using this app, you agree to the collection and use of information in accordance with this policy. We collect only the necessary personal information to provide the app’s functionality. Your data will never be shared outside of what is outlined in this Privacy Policy.
 
