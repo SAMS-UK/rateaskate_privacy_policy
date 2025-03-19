@@ -2,7 +2,7 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our Privacy Policy explains what information the Scottish Association for Marine Science collects through the Rate-a-Skate app, how it is used, and what choices you have regarding your data.
+Our Privacy Policy explains what information the Scottish Association for Marine Science collects through the SkateSpotter app, how it is used, and what choices you have regarding your data.
 
 The Rate-a-Skate app is provided by the Scottish Association for Marine Science free of charge and is intended for use as is.
 
@@ -15,11 +15,12 @@ To provide a better user experience and enable core functionality, the app may r
 #### Email and password
 
 **Email Address** – Required for authentication and account management.
-**Password** – Used for login authentication (securely encrypted).
+**Password** – Used for login authentication (Your password is encrypted with salt and hashed using SHA to ensure your data is protected. We do not store your password in a readable format).
+
 
 #### Location Information  
 
-**Location Data** – Used when uploading a photo (if permission is granted).
+**Location Data** – Users have the option to click "Use current location" button in location selection of the upload form. We may ask for location permissions, but we do not store location unless user clicks the "Use current location" button, as part of the upload form process.
 
 #### Photos
 
