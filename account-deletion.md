@@ -27,6 +27,8 @@ To delete your account manually:
 
 ## **📩 Need Help?**
 For any questions or concerns, get in touch:  
-📧 **Email:** [support@sams.ac.uk](mailto:samshabapp@gmail.com)
+📧 **Email:** [samshabapp@gmail.com](mailto:samshabapp@gmail.com)
 
 🚀 *Thank you for contributing to SkateSpotter!*  
+
+Created by Alan MacDonald of the Scottish Association for Marine Science.
